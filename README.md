@@ -41,7 +41,7 @@ Using a **Simple Linear Regression Analysis**, we discover that there is a clear
 
 ## Conclusion
 Through this insurance charges analysis, we are able to uncover trends in, regional sales demographics, charges correlation with smoking habits and BMI. These insights can inform stakeolders particularly Sales Execs and Actuaries on how to further optimize charges structure and product messaging to improve the bottom line.
-[Click to download full report](https://github.com/SamuelOni/GearTickler-Inc-Financial-Analysis/blob/main/Financial%20Sample%20Analysis%20%26%20Report.xlsx)
+[Click to download full report](https://github.com/SamuelOni/Insurance-Charges-Report/blob/main/SureGuard%20Assurance%20Full%20Analysis%20Report.xlsx)
 
 
 
